@@ -1,0 +1,16 @@
+.app {
+  margin-top: 84px; }
+
+.main {
+  height: calc(100vh - 41px - 84px); }
+
+.topheader {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0; }
+  .topheader sgwt-super-header nav {
+    z-index: 10000; }
+  .topheader .navbar-fixed-top {
+    position: relative;
+    margin-bottom: 0; }
